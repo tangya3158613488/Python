@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="settings" />
+          <option value="alien_invasion.alien_invasion.ship" />
+          <option value="alien_invasion.alien_invasion.bullet" />
+          <option value="pygame.sprite.Sprite.*" />
+          <option value="alien_invasion.alien_invasion.alien" />
+          <option value="alien_invasion.alien_invasion.game_stats" />
+          <option value="alien_invasion.alien_invasion.button" />
+          <option value="alien_invasion.alien_invasion.scoreboard" />
+          <option value="alien_invasion.scoreboard.ship" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
